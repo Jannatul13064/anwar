@@ -31,7 +31,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.png" />
-        <title>Md Shahriar Shourave </title>
+        <title>Anwar H Azad </title>
       </head>
       <body className="relative text-white pt-0">
         <Header />

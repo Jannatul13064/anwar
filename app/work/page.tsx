@@ -15,7 +15,7 @@ type WorkItem = {
 const works: WorkItem[] = [
   {
     title: "Advanced ABC Group",
-    role: "Group Managing Director",
+    role: "Group Sales Director",
     desc: "Leading a diversified conglomerate driving innovation in healthcare, automation, and renewable energy.",
     img: "/images/work/abc-group.png",
   },

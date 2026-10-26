@@ -50,7 +50,7 @@ export default function About() {
           <div className="absolute inset-0  rounded-full scale-125" />
           <Image
             src="/images/personal/profile.png"
-            alt="Engr. Md Shahriar Shourave"
+            alt="Anwar H Azad"
             width={350}
             height={350}
             className="rounded-2xl border-4 border-white/10 shadow-[0_0_60px_rgba(59,130,246,0.4)] object-cover"
@@ -66,11 +66,11 @@ export default function About() {
           className="text-center md:text-left"
         >
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4 bg-gradient-to-r from-blue-500 to-emerald-400 bg-clip-text text-transparent">
-            Engr. Md Shahriar Shourave
+            Anwar H Azad
           </h1>
 
           <h2 className="text-xl text-blue-400 font-semibold mb-6">
-            Managing Director , Advanced ABC Groups
+            Sales Director , Advanced ABC Groups
           </h2>
 
           <p className="text-gray-300 leading-relaxed text-lg mb-8">

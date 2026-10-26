@@ -61,17 +61,17 @@ export default function Contact() {
                 href="mailto:corporation.abc.bd@gmail.com"
                 className="text-gray-200 hover:text-blue-400 transition-colors text-sm sm:text-base break-all"
               >
-                corporation.abc.bd@gmail.com
+                sales@abc-bd.com
               </a>
             </div>
 
             <div className="flex items-center gap-3 sm:gap-4">
               <Phone className="text-blue-400" size={20} />
               <a
-                href="tel:+8801711460062"
+                href="tel:+8801730795193"
                 className="text-gray-200 hover:text-blue-400 transition-colors text-sm sm:text-base"
               >
-                +8801711460062
+                +8801730795193
               </a>
             </div>
 
